@@ -51,3 +51,9 @@ ALTER PLUGGABLE DATABASE ISH_TO_DELETE_PDB_27744 CLOSE IMMEDIATE;
 ```
 ![Conceptual Diagram](https://github.com/erickishimwe/ISHIMWE-ERIC_ASSIGNMENT_2_27744/blob/b1bea675849ad476221f69f3e33df45d12de69d7/2.5.png) 
 
+
+# Question 3 : USING OEM 
+
+![Conceptual Diagram](https://github.com/erickishimwe/ISHIMWE-ERIC_ASSIGNMENT_2_27744/blob/8c2da5b1b9859358bc3d8a55168385f0fff52943/Screenshot%20(48).png). 
+
+
