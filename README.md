@@ -52,7 +52,13 @@ ALTER PLUGGABLE DATABASE ISH_TO_DELETE_PDB_27744 CLOSE IMMEDIATE;
 ![Conceptual Diagram](https://github.com/erickishimwe/ISHIMWE-ERIC_ASSIGNMENT_2_27744/blob/b1bea675849ad476221f69f3e33df45d12de69d7/2.5.png) 
 
 
-# Question 3 : USING OEM 
+# Task 3 – Oracle Enterprise Manager (OEM)
+
+Oracle Enterprise Manager (OEM) is a web-based tool used to monitor, manage, and configure Oracle databases. It provides a centralized platform for database administrators to ensure database health, performance, and availability.
+
+In Task 3, we focus on accessing OEM, adding database targets, monitoring performance, configuring alerts, managing users and pluggable databases (PDBs), and scheduling automated tasks.
+
+This task demonstrates how OEM simplifies database management, reduces manual administrative work, and allows efficient monitoring of multiple databases from a single interface.
 
 ![Conceptual Diagram](https://github.com/erickishimwe/ISHIMWE-ERIC_ASSIGNMENT_2_27744/blob/8c2da5b1b9859358bc3d8a55168385f0fff52943/Screenshot%20(48).png). 
 
