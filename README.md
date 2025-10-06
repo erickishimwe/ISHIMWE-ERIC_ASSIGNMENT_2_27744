@@ -1,5 +1,8 @@
 # Question 1: Create Pluggable Database (PDB)
 
+NAMES: ISHIMWE Eric
+ID: 27744
+
 Description:
 This project demonstrates how to create a Pluggable Database (PDB) in Oracle from the PDB$SEED template. The steps include creating a PDB, opening it, creating tablespaces, adding users, and assigning privileges. This guide is useful for learners and DBAs practicing Oracle Multitenant architecture
 Table of Contents
